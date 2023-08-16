@@ -8,10 +8,10 @@ tqdm
 opencv-contrib-python
 
 
-images                     labels
-images/angra/vivek.png     angry
-images/angry/v.png         angry
-images/sad/vivek.png       sad
-images/sad/vivek.png       sad
+images                       labels
+images/angra/sachith.png     angry
+images/angry/s.png           angry
+images/sad/sachi.png         sad
+images/sad/sachith.png       sad
 
 load_img(img,grayscale=True)
